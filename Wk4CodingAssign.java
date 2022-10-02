@@ -132,6 +132,13 @@ public class Wk4CodingAssign {
 		
 		
 //		13.	Create a method of your own that solves a problem. In comments, write what the method does and why you created it.
+				
+//		The method I created "canProcrastinate" gives me advice based on how many days I have left until an assignment is due and
+//		whether or not I have any events of significant duration happening on the due date. I have ADHD, and I'm always trying to
+//		sneak in advice to myself, but I also know there are times I'm just going to be relying on "Deadline Mode." I included an if
+//		statement to catch typos since I would not be using this method for advice more than 9 days from a due date, and
+//		this girl is never attending events that last more than 6 hours!
+				
 		//System.out.println("-13-");
 		//int daysTilDue = 3;
 		//double eventHours = 0;
